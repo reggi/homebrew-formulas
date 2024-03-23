@@ -2,7 +2,7 @@ class ExportCommands < Formula
   desc "Converts export expressions to commands"
   homepage "https://github.com/reggi/export-commands"
   url "https://github.com/reggi/export-commands/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "7be8b59c5919e0f0c321177c389b55cc32b332784e1ec5aba21767442573e4dd"
+  sha256 "c9e3f24d33f5178590102a41a5a62a559d231375fac725a7c03e3b2ad0405b82"
   license "MIT"
 
   depends_on "deno"
